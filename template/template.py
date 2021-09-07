@@ -35,7 +35,7 @@ class SolutionTest(unittest.TestCase):
 
 if __name__ == '__main__':
     # Obey the Python coding convention provided in PEP8
-    SolutionTest.main()
+    unittest.main()
 
 # reference
 # link : https://www.python.org/dev/peps/pep-0008/
